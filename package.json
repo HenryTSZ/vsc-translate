@@ -1,9 +1,9 @@
 {
-  "name": "translate",
-  "displayName": "translate",
+  "name": "vsc-translate",
+  "displayName": "vsc-translate",
   "description": "translate",
   "version": "0.0.1",
-  "publisher": "HenryTSZ",
+  "publisher": "HenryTsz",
   "homepage": "https://github.com/HenryTSZ/vsc-translate/blob/main/README.md",
   "repository": {
     "type": "git",
